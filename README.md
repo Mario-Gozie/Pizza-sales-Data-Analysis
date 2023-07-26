@@ -35,7 +35,7 @@ When I viewed the dataset, I found out that the date column and time column are 
 `select * from pizza_sales;`
 
 | Adding Order_Timess                   |     updating the column                            |   Viewing the new Table                    |
-|: ------------------------------------ |--------------------------------------------------- | ------------------------------------------ |
+| ------------------------------------ |--------------------------------------------------- | ------------------------------------------ |
 |     ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/Alter%20table%20adding%20time%20column.png)                     |         ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/Updating%20the%20new%20column%20with%20time%20only.png)                              |         ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/first_view_time.png)                      |
 
 *NB* _**please don't worry about the zeros behind the time I will clean them at the final state of my cleaning which is the rearranging stage**_
@@ -56,7 +56,7 @@ When I viewed the dataset, I found out that the date column and time column are 
 `select * from pizza_sales;`
 
 | Adding Order_dates                    |     updating the column                            |   Viewing the new Table                    |
-|: ------------------------------------ |--------------------------------------------------- | ------------------------------------------ |
+| ------------------------------------ |--------------------------------------------------- | ------------------------------------------ |
 |     ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/Creating%20new%20column%20Date.png)                     |         ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/updating%20the%20date%20column%20with%20only%20date.png)                              |         ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/viewing%20updated%20date%20column.png)                      |
 
 
