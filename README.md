@@ -124,10 +124,7 @@ In calculating the Total Revenue I used two methods.
  `select cast(cast(count(quantity) as decimal(10,2))/cast(count(distinct(order_id))`
  `as decimal(10,2)) as decimal(10,2)) as Average_pizza_Per_Order from pizza_sales;`
 
-
-|    Without Decimal Part                                  |     With the Decimal part                               |
-|:-------------------------------------------------------- | ------------------------------------------------------- |
-|         ![Alt_Text]()                                    |                      ![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/Average%20pizza%20per%20order.png)                      |
+![Alt_Text](https://github.com/Mario-Gozie/Pizza-sales-Data-Analysis/blob/main/Images/Average%20pizza%20per%20order.png)                      |
 
 ## SALES PER WEEKDAY
 
