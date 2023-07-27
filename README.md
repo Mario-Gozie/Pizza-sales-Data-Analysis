@@ -205,4 +205,8 @@ To View the dashboard on Tableau public, please use this [Link](https://public.t
 
 ## GENERAL INSIGHTS
 
-* 
+* The Dashboard has show that the pizza shop made a total revenue of **$ 817.960.05** from sales of over 49,000 Pizzas.
+* It also showed that pizza sales are at it peak around **noon** and **7pm** in the evening. These are times people have lunch at work places and when the are home in most cases having some rest, proper staffing may be necessary at these times to help meet demand.
+* Another interesting observation from this dashboard is that **Thai chicken pizza** are the most revenue generating selling pizza while **green garden** is the least.
+* From the dashboard, Classic category seems to make the most sales but that not so different from Supreme category which is next. The difference in percentage between the two is just **1.45%**
+* For Sizes that top the list, the large size pizza does. It made up **45.89%** of sales. 
